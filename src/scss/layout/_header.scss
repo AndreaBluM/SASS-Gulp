@@ -1,0 +1,9 @@
+@use 'base/variables' as v;
+
+.header{
+    background-color: v.$grism;
+
+    h1{
+        color: v.$negro;
+    }
+}
